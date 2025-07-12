@@ -13,3 +13,9 @@
   "author": "Your Name",
   "license": "ISC"
 }
+{
+  ...
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
